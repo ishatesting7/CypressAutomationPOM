@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/kang111/cypress-pom-projectone.git
+   git clone https://github.com/ishatesting7/CypressAutomationPOM.git
    cd cypress-pom-projectone
 2. Install dependencies:
    ```sh

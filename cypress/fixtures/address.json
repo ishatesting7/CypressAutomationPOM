@@ -1,0 +1,26 @@
+{
+    "add": [
+        {
+            "first_name": "Dewel",
+            "last_name": "Fritsch",
+            "company":"Wipro",
+            "address1":"Address 1",
+            "address2":"Address 2",
+            "city":"Bangalore",
+            "post_code":93933,
+            "country":"India",
+            "region":"Bihar"
+        },
+        {
+            "first_name": "Dewel",
+            "last_name": "Fritsch",
+            "company":"Wipro",
+            "address1":"Address 1",
+            "address2":"Address 2",
+            "city":"Bangalore",
+            "post_code":93933,
+            "country":"Nepal",
+            "region":"Bheri"
+        }
+    ]
+}

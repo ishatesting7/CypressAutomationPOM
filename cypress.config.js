@@ -14,7 +14,7 @@ module.exports = defineConfig({
     checkoutpage_url: 'https://ecommerce-playground.lambdatest.io/index.php?route=checkout/checkout',
     checkoutconfirm_url: 'https://ecommerce-playground.lambdatest.io/index.php?route=extension/maza/checkout/confirm',
     checkoutsuccess_url:'https://ecommerce-playground.lambdatest.io/index.php?route=checkout/success',
-    USERNAME: "kangs722@gmail.com",
+    USERNAME: "test12@gmail.com",
     PASSWORD: "test1234", 
     WRONG_PASSWORD: "test"
   },

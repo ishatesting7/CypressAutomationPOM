@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cy:run": "node cypress/scripts/runWithHtmlReport.js",
-    "cypress:chrome": "npx cypress run --chrome",
-    "cypress:edge": "npx cypress run --edge"
+    "cypress:chrome": "npx cypress run --browser chrome",
+    "cypress:edge": "npx cypress run --browser edge"
   },
   "keywords": [],
   "author": "",
